@@ -1,0 +1,8 @@
+__pycache__
+venv
+config.json
+*.mp4
+*.jpeg
+*.jpg
+train/data
+docs/build
