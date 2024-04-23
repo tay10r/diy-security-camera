@@ -3,3 +3,5 @@ requests
 loguru
 sphinx
 sphinx-rtd-theme
+torch
+torchvision
